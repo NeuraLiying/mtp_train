@@ -21,7 +21,7 @@ The following diagram illustrates the multi-token prediction (MTP) mechanism use
 
 <div align="center">
 
-<img src="mtp_mimo.jpg" alt="MTP Method" width="600"/>
+<img src="figs/mtp_mimo.jpg" alt="MTP Method" width="600"/>
 
 <sup>Fig.1 – An overview of the MTP architecture adapted for Qwen.</sup>
 
