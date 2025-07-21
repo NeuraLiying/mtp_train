@@ -2,7 +2,7 @@
 
 This repository contains training scripts for Multi-Token Prediction (MTP) based on the Qwen model. The goal is to accelerate inference of large language models by training them to predict multiple tokens at once.
 
-This implementation is based on the [MiMo-MTP paper (ICML 2024)](https://arxiv.org/pdf/2505.07608), which introduces a multi-token prediction framework to improve decoding efficiency without sacrificing accuracy.
+This implementation is based on the [MiMo-MTP paper ](https://arxiv.org/pdf/2505.07608), which introduces a multi-token prediction framework to improve decoding efficiency without sacrificing accuracy.
 
 ## 🔧 Project Structure
 
@@ -18,7 +18,7 @@ This implementation is based on the [MiMo-MTP paper (ICML 2024)](https://arxiv.o
 
 The following diagram illustrates the multi-token prediction (MTP) mechanism used in this implementation:
 
-![MTP Method](assets/mtp_mimo.png)  
+![MTP Method](mtp_mimo.jpg)  
 <sup>Fig.1 – An overview of the MTP architecture adapted for Qwen.</sup>
 
 ## 📈 Results
