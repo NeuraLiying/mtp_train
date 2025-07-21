@@ -18,8 +18,14 @@ This implementation is based on the [MiMo-MTP paper ](https://arxiv.org/pdf/2505
 
 The following diagram illustrates the multi-token prediction (MTP) mechanism used in this implementation:
 
-![MTP Method](mtp_mimo.jpg)  
+
+<div align="center">
+
+<img src="mimo_mtp.jpg" alt="MTP Method" width="600"/>
+
 <sup>Fig.1 – An overview of the MTP architecture adapted for Qwen.</sup>
+
+</div>
 
 ## 📈 Results
 
